@@ -1,6 +1,6 @@
 ## Hey, Wy are here 👋
 
-We are the security lab of SIPC from Tianjin University of Technology！
+We are the security lab from Tianjin University of Technology！
 
 Over the years, despite the existence of security researchers, we have left little valuable intellectual property, whether for schools or communities.😥
 
