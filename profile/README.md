@@ -1,7 +1,7 @@
-## Hey, Wy are here 👋
+## Hey, We are here 👋
 
 We are the security lab from Tianjin University of Technology！
 
-Over the years, despite the existence of security researchers, we have left little valuable intellectual property, whether for schools or communities.😥
+Despite the existence of security researchers over the years, we have left few valuable assets behind, whether for schools or communities.😥
 
-I hope that in the future, this security lab can leave a lot of valuable things for our juniors and the security community.
+I hope that in the future, this security lab can leave many valuable assets for our juniors and the security community.
