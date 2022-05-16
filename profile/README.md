@@ -1,6 +1,6 @@
 ## Hey, We are here 👋
 
-We are the security lab from Tianjin University of Technology！
+We are a just-started security lab, and the first few people are students from Tianjin University of Technology！
 
 Despite the existence of security researchers over the years, we have left few valuable assets behind, whether for schools or communities.😥
 
